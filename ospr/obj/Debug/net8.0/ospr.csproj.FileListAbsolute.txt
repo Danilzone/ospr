@@ -1,0 +1,14 @@
+C:\Users\anton\OneDrive\Desktop\ospr\bin\Debug\net8.0\ospr.exe
+C:\Users\anton\OneDrive\Desktop\ospr\bin\Debug\net8.0\ospr.deps.json
+C:\Users\anton\OneDrive\Desktop\ospr\bin\Debug\net8.0\ospr.runtimeconfig.json
+C:\Users\anton\OneDrive\Desktop\ospr\bin\Debug\net8.0\ospr.dll
+C:\Users\anton\OneDrive\Desktop\ospr\bin\Debug\net8.0\ospr.pdb
+C:\Users\anton\OneDrive\Desktop\ospr\obj\Debug\net8.0\ospr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Desktop\ospr\obj\Debug\net8.0\ospr.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Desktop\ospr\obj\Debug\net8.0\ospr.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Desktop\ospr\obj\Debug\net8.0\ospr.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Desktop\ospr\obj\Debug\net8.0\ospr.dll
+C:\Users\anton\OneDrive\Desktop\ospr\obj\Debug\net8.0\refint\ospr.dll
+C:\Users\anton\OneDrive\Desktop\ospr\obj\Debug\net8.0\ospr.pdb
+C:\Users\anton\OneDrive\Desktop\ospr\obj\Debug\net8.0\ospr.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Desktop\ospr\obj\Debug\net8.0\ref\ospr.dll
